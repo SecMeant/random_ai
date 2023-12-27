@@ -1,0 +1,1 @@
+Installing intel_extension_for_pytorch and other stuff on which this extension work is just hell. Just download Intel's docker image and pass GPU to the docker container with "--device /dev/dri" or something similar.
